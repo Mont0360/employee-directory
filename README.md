@@ -23,6 +23,7 @@ Filter the users by at least one property.
 
 ## Screen Shot of App
 <img width="1405" alt="Screen Shot 2020-08-14 at 10 30 52 PM" src="https://user-images.githubusercontent.com/61704824/90304466-e572b680-de7d-11ea-87cf-67addd6eada0.png"> 
+
 ## GitHub Repo 
 https://github.com/Mont0360/employee-directory
 
